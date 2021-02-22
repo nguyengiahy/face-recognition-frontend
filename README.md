@@ -1,3 +1,9 @@
+A project that can detect faces in a picture. Contains login system and database to store information. </br>
+Frontend: ReactJS.</br>
+Backend: Node + Express.</br>
+Database: postgreSQL.</br>
+
+How to run:
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
